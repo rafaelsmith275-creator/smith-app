@@ -1,0 +1,1 @@
+// Lógica de agendamento e sincronização com o Dante
